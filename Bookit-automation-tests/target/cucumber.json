@@ -1,0 +1,80 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 547591,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "post with teacher account",
+        "description": "",
+        "id": "user-registriation-with-api;post-with-teacher-account",
+        "after": [
+          {
+            "result": {
+              "duration": 10704,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I logged Bookit api as a teacher",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15634,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "I try to register new user",
+            "match": {
+              "location": "postApiStepDefs.i_try_to_register_new_user()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "I should get has been added to bd message",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@temp"
+          }
+        ]
+      }
+    ],
+    "name": "User Registriation with API",
+    "description": "",
+    "id": "user-registriation-with-api",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/postAPI.feature",
+    "tags": []
+  }
+]

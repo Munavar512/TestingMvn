@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-18T21:06:35Z" name="Default suite" finished-at="2018-12-18T21:06:47Z" duration-ms="12003">
+    <groups>
+    </groups>
+    <test started-at="2018-12-18T21:06:35Z" name="Default test" finished-at="2018-12-18T21:06:47Z" duration-ms="12003">
+      <class name="LoginPage.webLogintest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginPage.webLogintest@6ab778a]" started-at="2018-12-18T21:06:35Z" name="setUp" finished-at="2018-12-18T21:06:43Z" duration-ms="8459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:LoginPage.webLogintest@6ab778a]" started-at="2018-12-18T21:06:43Z" name="login" finished-at="2018-12-18T21:06:46Z" duration-ms="2674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="loginUsingPOM()[pri:0, instance:LoginPage.webLogintest@6ab778a]" started-at="2018-12-18T21:06:46Z" name="loginUsingPOM" finished-at="2018-12-18T21:06:47Z" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUsingPOM -->
+        <test-method is-config="true" signature="closeup()[pri:0, instance:LoginPage.webLogintest@6ab778a]" started-at="2018-12-18T21:06:47Z" name="closeup" finished-at="2018-12-18T21:06:47Z" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeup -->
+      </class> <!-- LoginPage.webLogintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

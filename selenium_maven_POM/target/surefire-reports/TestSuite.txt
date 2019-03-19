@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 8, Time elapsed: 1.019 sec <<< FAILURE! - in TestSuite
+checkUp(POMdesign.WebOrderLoginTest)  Time elapsed: 0.69 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at POMdesign.WebOrderLoginTest.checkUp(WebOrderLoginTest.java:56)
+

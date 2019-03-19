@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-06T20:02:59Z" name="Suite" finished-at="2018-12-06T20:03:48Z" duration-ms="49153">
+    <groups>
+    </groups>
+    <test started-at="2018-12-06T20:02:59Z" name="Test" finished-at="2018-12-06T20:03:48Z" duration-ms="49153">
+      <class name="cybertek2.CNNTest">
+        <test-method signature="navigatetoCNNTest()[pri:0, instance:cybertek2.CNNTest@3a93b025]" started-at="2018-12-06T20:03:23Z" name="navigatetoCNNTest" finished-at="2018-12-06T20:03:48Z" duration-ms="25255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetoCNNTest -->
+      </class> <!-- cybertek2.CNNTest -->
+      <class name="cybertek2.ABCTest">
+        <test-method signature="navigatetoABCTest()[pri:0, instance:cybertek2.ABCTest@79e2c065]" started-at="2018-12-06T20:02:59Z" name="navigatetoABCTest" finished-at="2018-12-06T20:03:23Z" duration-ms="23850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetoABCTest -->
+      </class> <!-- cybertek2.ABCTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

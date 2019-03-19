@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 33.431 sec <<< FAILURE! - in TestSuite
+login(com.grid.gridTest)  Time elapsed: 3.728 sec  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+Cannot define class using reflection
+Command duration or timeout: 3.60 seconds
+	at com.grid.gridTest.login(gridTest.java:19)
+Caused by: org.openqa.selenium.WebDriverException: 
+Cannot define class using reflection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'minas-MacBook-Air.local', ip: 'fe80:0:0:0:104b:3ae9:2b6a:ce2a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14', java.version: '10.0.2'
+Driver info: driver.version: unknown
+

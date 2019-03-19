@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Testing(failed)" verbose="0">
+    <classes>
+      <class name="POMdesign.WebOrderTest">
+        <methods>
+          <include name="closeUp"/>
+          <include name="setUp"/>
+          <include name="labelsVarification"/>
+        </methods>
+      </class> <!-- POMdesign.WebOrderTest -->
+      <class name="POMdesign.WebOrderLoginTest">
+        <methods>
+          <include name="loginUsingPom"/>
+          <include name="closeUp"/>
+          <include name="setUp"/>
+          <include name="login"/>
+          <include name="checkUp"/>
+          <include name="invalidLogin"/>
+        </methods>
+      </class> <!-- POMdesign.WebOrderLoginTest -->
+    </classes>
+  </test> <!-- Testing(failed) -->
+</suite> <!-- Failed suite [Suite] -->

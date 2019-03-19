@@ -1,0 +1,13 @@
+Feature: Api testing with bookit
+
+
+Scenario: verify information about logged user
+  Given I logged Bookit api using "sbirdbj@fc2.com" and "asenorval"
+  When I get the current user information from api 
+  Then the information about current user should be returned   
+ 
+ @temp
+ Scenario: verify information about logged user from api and database
+  Given I logged Bookit api using "sbirdbj@fc2.com" and "asenorval"
+  When I get the current user information from api 
+  Then the information about current user from api and database shoud be match

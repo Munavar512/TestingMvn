@@ -1,0 +1,17 @@
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/runners/CukesRunner.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/step_definitions/MyInfoStepDefs.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/pages/SelfPage.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/pages/TeamPage.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/utilities/DBUtils.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/utilities/BrowserUtils.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/step_definitions/Hooks.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/step_definitions/LoginStepDefinitions.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/pages/MapPage.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/pages/MySelfPage.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/pages/TopNavigationBar.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/pages/SignInpage.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/tests/JDBCTest.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/utilities/Driver.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/step_definitions/AccountInfoStepDefs.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/utilities/ConfigurationReader.java
+/Users/mina/Selenium/testing-maven/Bookit-automation-tests/src/test/java/com/bookit/utilities/ScheduleStepDenitions.java

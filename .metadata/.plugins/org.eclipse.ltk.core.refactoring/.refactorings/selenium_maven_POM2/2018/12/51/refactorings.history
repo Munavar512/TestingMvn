@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;LoginPage2.pages&apos; to &apos;webOrderLoginPage&apos;&#x0A;- Original project: &apos;selenium_maven_POM2&apos;&#x0A;- Original element: &apos;LoginPage2.pages&apos;&#x0A;- Renamed element: &apos;LoginPage2.webOrderLoginPage&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;pages&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;LoginPage2{pages.java[pages" matchStrategy="1" name="webOrderLoginPage" qualified="false" references="true" similarDeclarations="false" stamp="1545166405768" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Bookit-automation-tests"/>
+    <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+    <mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS"/>
+    <listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+        <listEntry value="com.bookit.utilities.Driver"/>
+        <listEntry value="com.bookit.tests.JDBCTest"/>
+        <listEntry value="com.bookit.pages.SelfPage"/>
+        <listEntry value="com.bookit.pages.MySelfPage"/>
+        <listEntry value="com.bookit.pages.SignInpage"/>
+        <listEntry value="com.bookit.step_definitions.LoginStepDefinitions"/>
+        <listEntry value="com.bookit.runners.CukesRunner"/>
+        <listEntry value="com.bookit.pages.TopNavigationBar"/>
+        <listEntry value="com.bookit.step_definitions.MyInfoStepDefs"/>
+        <listEntry value="com.bookit.utilities.ConfigurationReader"/>
+        <listEntry value="com.bookit.utilities.DBUtils"/>
+        <listEntry value="com.bookit.pages.MapPage"/>
+        <listEntry value="com.bookit.utilities.ScheduleStepDenitions"/>
+        <listEntry value="com.bookit.pages.TeamPage"/>
+        <listEntry value="com.bookit.step_definitions.AccountInfoStepDefs"/>
+        <listEntry value="com.bookit.utilities.BrowserUtils"/>
+        <listEntry value="com.bookit.step_definitions.Hooks"/>
+    </listAttribute>
+    <listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+    <listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+    <stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+    <intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>

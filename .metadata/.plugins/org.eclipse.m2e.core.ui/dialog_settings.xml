@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.ct"/>
+			<item value="com.bookit"/>
+			<item value="com_ct"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="find"/>
+			<item value="Bookit-automation-tests"/>
+			<item value="GasCalculate-DDF"/>
+			<item value="selenium_maven_POM2"/>
+			<item value="selenium-maven-framework1"/>
+			<item value="selenium-maven-Framework"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/mina/Selenium/testing-maven/mavenJava"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/mina/git/final-testng-framework/testng_runner.xml"/>
+			<item value="/Users/mina/Selenium/testing-maven/selenium-maven-framework1"/>
+			<item value="/Users/mina/Selenium/testing-maven/selenium-maven-framework"/>
+			<item value="/Users/mina/Selenium/testing-maven/selenium_maven_zoho"/>
+			<item value="/Users/mina/Selenium/testing-maven/selenium_maben_saucelabs/src/test/java/com/cybertek/sauceTest.java"/>
+			<item value="/Users/mina/Selenium/testing-maven/selenium_maven_grid/src/test/java/com/grid/gridTest.java"/>
+			<item value="/Users/mina/Selenium/testing-maven/selenium-maven-excel-googleSearch/src/test/resources"/>
+			<item value="/Users/mina/Selenium/testing-maven/WorkingWithExcel/src/test/java/com/cybertek/WorkWithExcel.java"/>
+			<item value="/Users/mina/Selenium/testing-maven/maven.properties.test"/>
+			<item value="/Users/mina/Selenium/testing-maven/mavenJava"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
